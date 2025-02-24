@@ -1,0 +1,10 @@
+Clone :- git clone <<REPO_URL>>
+PULL:- git pull
+PULL From Specific Branch :- git pull origin <<BRANCH_NAME>>
+ADD Files:- git add .
+STATUS:- git status
+COMMIT:- git commit -m <<COMMIT_MESSAGE>>
+PUSH:- git push
+PUSH To Specific Branch :- git push origin <<BRANCH_NAME>>
+Create New Feature Branch:- git checkout -b <<FEATURE_BRANCH_NAME>>
+PR/MR Raise to push your changes to Main Branch
