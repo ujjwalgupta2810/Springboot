@@ -1,0 +1,6 @@
+Introduction of Thymeleaf 
+
+Thymeleaf is a modern server-side Java template engine for both web and standalone environments,capable of processing HTML,XML,JavaScript,CSS and plain text 
+The main goal of Thymeleaf is to provide an  elegant and highly-maintainable way of creating templates
+
+Mostly used to generate html views for web applications. 
